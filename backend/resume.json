@@ -1,0 +1,50 @@
+{
+  "name": "",
+  "email": "",
+  "phone": "",
+  "summary": "Experienced developer with 5+ years in web development...\n\n[AI Enhanced]: Experienced developer with 5+ years in web development...\n\n[AI Enhanced]: This content is rewritten for better clarity and impact.",
+  "experience": [
+    {
+      "id": 1,
+      "title": "Senior Developer",
+      "company": "Tech Corp",
+      "duration": "2020 - Present",
+      "description": "Led a team of 5 developers..."
+    },
+    {
+      "id": 1751031083741,
+      "title": "Enhanced Position",
+      "company": "AI Suggested",
+      "duration": "2023 - Present",
+      "description": "AI-enhanced description based on your experience..."
+    },
+    {
+      "id": 1751031247691,
+      "title": "Enhanced Position",
+      "company": "AI Suggested",
+      "duration": "2023 - Present",
+      "description": "AI-enhanced description based on your experience..."
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "degree": "B.S. Computer Science",
+      "institution": "State University",
+      "year": "2016 - 2020"
+    },
+    {
+      "id": 1751031098031,
+      "degree": "",
+      "institution": "",
+      "year": ""
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "React",
+    "Python",
+    "FastAPI",
+    "sql"
+  ]
+}
