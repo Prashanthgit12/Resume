@@ -1,2 +1,2 @@
 # resume-editor
-# Resme
+# Resume
